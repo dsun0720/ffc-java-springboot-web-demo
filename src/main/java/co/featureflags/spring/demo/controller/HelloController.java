@@ -1,4 +1,4 @@
-package co.featureflags.spring.demo;
+package co.featureflags.spring.demo.controller;
 
 import co.featureflags.spring.FeatureGate;
 import co.featureflags.spring.RouteMapping;
